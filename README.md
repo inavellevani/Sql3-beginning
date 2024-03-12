@@ -1,1 +1,1 @@
-# Sql3-beginning
+The script connects to a database called "wignebi.db" and creates a table named "books" with information about books, such as their names, page counts, cover types, and categories. It then adds book data to this table and calculates the average number of pages in all books. The script also identifies and prints the book with the most pages, along with the number of pages it has. Finally, it closes the connection to the database.
